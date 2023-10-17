@@ -1,0 +1,4 @@
+enum UserFieldKeys {
+  userId,
+  role,
+}
